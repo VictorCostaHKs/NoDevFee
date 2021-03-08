@@ -12,6 +12,7 @@ No DevFee for Phoemix miner in Ethermine.
 O firewall do windows deve estar ativo, pois ele irá bloquear as conexões SSL.
 
 Copie e cole sua linha de comando no arquivo "commandLine.ini", utilize um nome para seu trabalhador, pois assim você sempre vera quando uma tentativa de coleta for executada, exemplo:
+
 -pool asia1.ethermine.org:4444 -wal 0x96306961eD9B627a24922191930e98bacc9289D2 -worker NomeDoTrabalhador -epsw x -acm -mode 1 -log 0 -mport 0 -etha 0 -ftime 55 -retrydelay 1 -coin eth
 
 Clique com botão auxilar em NoDevFee.exe e va em "Executar como administrador"
@@ -19,13 +20,17 @@ Clique com botão auxilar em NoDevFee.exe e va em "Executar como administrador"
 
 OBS:
  conexões SSL não são suportadas pelo NoDevFee.
+ 
  Sempre que uma tentativa de devfee for redirecionada o contador DevFee Redirected irá subir +1.
+ 
  As conexões DevFee serão feitas utilizando WorkerName = Default.
  
 # EN-US:
 
 1 -> Activate the windows firewall.
+
 2 -> Configure your command line in the "commandLine.ini" file
+
 3 -> Run NoDeveFee.exe as an Administrator
 
 
