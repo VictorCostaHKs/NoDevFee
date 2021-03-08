@@ -2,9 +2,11 @@
 No DevFee for Phoemix miner in Ethermine.
 
 # PT-BR:
-1 -> Ative o firewall do windows.
-2 -> Configure sua linha de comando no arquivo "commandLine.ini"
-3 -> Execute NoDeveFee.exe como Administrador
+1 - Ative o firewall do windows.
+
+2 - Configure sua linha de comando no arquivo "commandLine.ini"
+
+3 - Execute NoDeveFee.exe como Administrador
 
 
 O firewall do windows deve estar ativo, pois ele irá bloquear as conexões SSL.
