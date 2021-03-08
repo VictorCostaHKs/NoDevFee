@@ -1,4 +1,4 @@
-# NoDevFee 
+# Remove DevFee of Phoemix Miner 
 No DevFee for Phoemix miner in Ethermine.
 
 ## Required
