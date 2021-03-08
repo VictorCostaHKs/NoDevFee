@@ -6,7 +6,7 @@ Windows 10
 
 .Net Framework 4.72
 
-### PT-BR: COMO USAR 
+## PT-BR: COMO USAR 
 1 - Ative o firewall do windows.
 
 2 - Configure sua linha de comando no arquivo "commandLine.ini"
@@ -30,7 +30,9 @@ OBS:
  
  As conexões DevFee serão feitas utilizando WorkerName = Default.
  
-### EN-US: HOW USE 
+ Donate ETH: 0x96306961eD9B627a24922191930e98bacc9289D2
+ 
+## EN-US: HOW USE 
 
 1 -> Activate the windows firewall.
 
