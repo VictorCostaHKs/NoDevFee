@@ -1,7 +1,12 @@
 # NoDevFee 
 No DevFee for Phoemix miner in Ethermine.
 
-# PT-BR:
+## Required
+Windows 10
+
+.Net Framework 4.72
+
+### PT-BR: COMO USAR 
 1 - Ative o firewall do windows.
 
 2 - Configure sua linha de comando no arquivo "commandLine.ini"
@@ -25,7 +30,7 @@ OBS:
  
  As conexões DevFee serão feitas utilizando WorkerName = Default.
  
-# EN-US:
+### EN-US: HOW USE 
 
 1 -> Activate the windows firewall.
 
